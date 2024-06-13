@@ -11,3 +11,5 @@ The system includes voice recognition, speech-to-text conversion, and text-to-sp
 - **Object Recognition**: The AI model can recognize objects and describe them to the user.
 - **Speech-to-Text**: The system converts spoken words into text, allowing users to communicate more easily.
 - **Text-to-Speech**: The system converts written text into spoken words, enabling users to access written information.
+
+## System Developer: Simon Manna
